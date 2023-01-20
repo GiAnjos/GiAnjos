@@ -1,7 +1,11 @@
 ### Hello! I am Giovana Dos Anjos! Welcome to my github! 👋
 
 
-![GiAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=GiAnjos&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <a href="https://github.com/GiAnjos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiAnjos&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAnjos&langs_count=7&theme=swift"/>
+
 
 </div>
 <div style="display: inline_block"><br>
