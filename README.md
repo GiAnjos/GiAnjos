@@ -1,7 +1,7 @@
 ### Hello! I am Giovana Dos Anjos! Welcome to my github! 👋
 
 
-![GiAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![GiAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=GiAnjos&show_icons=true&theme=dracula&count_private=true)
 
 </div>
 <div style="display: inline_block"><br>
