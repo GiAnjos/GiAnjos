@@ -1,6 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/GiAnjos/GiAnjos/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
-<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Giovana;I'm+24+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -11,17 +8,9 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiAnjos&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-</div>
-
-
-<a href="mailto:giovanadosanjos49@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/GiAnjos/GiAnjos/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/giovana-dos-anjos-993b26195/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/GiAnjos/GiAnjos/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
+<div> 
+  <a href = "mailto:giovanadosanjos49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovana-dos-anjos-993b26195/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
@@ -65,9 +54,4 @@
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGiAnjos&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
-</div>
 
-<br>
-<br> 
-
-<img width=100% src="https://github.com/GiAnjos/GiAnjos/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
