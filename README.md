@@ -33,7 +33,6 @@
 
 </div>
 
-<br>
 <br> 
 
 </div>
@@ -41,7 +40,6 @@
 
 <div align="center">
   
-<br>
 <br>
 
 <p align="centre"><b>Visitors Count</b></p> 
