@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ff6c8f&center=true&vCenter=true&random=false&width=1000&lines=Hello!+I'm+Gi+%3A%29;Welcome!!)](https://git.io/typing-svg)
 
 <br>
-<br>
 
 Sou Analista de Tecnologia na Zmes, responsável pela análise de dados dos projetos de growth voltados para Duplicatas Escriturais e Tesouro Direto da B3. Minha trajetória combina tecnologia e visão de negócios, com experiências que reforçam minha capacidade de transformar dados em estratégias eficazes.
 
