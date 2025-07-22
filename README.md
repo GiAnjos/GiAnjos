@@ -4,9 +4,6 @@
 <br>
 <br>
 
-### 📊 Estatísticas
-
-<div style="display: inline_block"><br>
 <p>
   <img 
     align="center" 
@@ -24,7 +21,7 @@
   />
 
 </p>
-<div align="center">
+
 
 <br>
 <br>
