@@ -6,23 +6,22 @@
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GiAnjos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAnjos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAnjos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
+
 
 <br>
 <br>
