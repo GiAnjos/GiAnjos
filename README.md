@@ -3,7 +3,7 @@
 
 <br>
 
-Sou Analista de Tecnologia na Zmes, responsável pela análise de dados dos projetos de growth voltados para Duplicatas Escriturais e Tesouro Direto da B3. Minha trajetória combina tecnologia e visão de negócios, com experiências que reforçam minha capacidade de transformar dados em estratégias eficazes.
+Fui Analista de Tecnologia na Zmes, responsável pela análise de dados dos projetos de growth voltados para Duplicatas Escriturais e Tesouro Direto da B3. Minha trajetória combina tecnologia e visão de negócios, com experiências que reforçam minha capacidade de transformar dados em estratégias eficazes.
 
 Na Intel, atuei com análise de dados de vendas e desenvolvimento de dashboards estratégicos em Power BI e Excel, entregando insights valiosos para a tomada de decisão. Já na Bayer, aprofundei meus conhecimentos em Python, machine learning e computação em nuvem, fortalecendo minha paixão por aplicar tecnologia a desafios reais.
 
